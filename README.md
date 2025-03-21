@@ -61,7 +61,7 @@ To ensure proper execution, install the required dependencies:
 pip install torch torchvision tqdm cvxpy numpy
 ```
 
-📧 Contact
+## 📧 Contact
 
 For any questions or discussions, feel free to open an issue or reach out!
 
